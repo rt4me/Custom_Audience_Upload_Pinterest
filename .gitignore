@@ -1,0 +1,4 @@
+config.txt
+files/*.json
+files/*
+logs/*
