@@ -1,0 +1,161 @@
+2025-01-28 11:22:36,843 [download_csv.py:23 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 11:22:37,216 [download_csv.py:15 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to files/GCP_Downloaded_file_20250128_112236.csv.
+[92m2025-01-28 11:28:59,621 [download_csv.py:23 - main() ] INFO Running download_csv.py as a standalone program.[0m
+[92m2025-01-28 11:28:59,957 [download_csv.py:15 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to files/GCP_Downloaded_file_20250128_112859.csv.[0m
+2025-01-28 11:34:13,101 [download_csv.py:23 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 11:34:13,403 [download_csv.py:15 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to files/GCP_Downloaded_file_20250128_113413.csv.
+2025-01-28 11:49:37,113 [upload_to_pinterest.py:125 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 11:49:37,113 [upload_to_pinterest.py:125 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 11:49:41,984 [upload_to_pinterest.py:28 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-28 11:49:41,984 [upload_to_pinterest.py:28 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-28 11:49:43,225 [upload_to_pinterest.py:33 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-28 11:49:43,225 [upload_to_pinterest.py:33 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-28 11:49:43,225 [choreo_login.py:18 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-28 11:49:43,225 [choreo_login.py:18 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-28 11:49:43,790 [choreo_login.py:22 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-28 11:49:43,790 [choreo_login.py:22 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-28 11:49:43,792 [choreo_login.py:23 - choreo_authentication() ] DEBUG The active window handle is: 7FFA3DC2AF427990038BFE59A44D8523
+2025-01-28 11:49:43,792 [choreo_login.py:23 - choreo_authentication() ] DEBUG The active window handle is: 7FFA3DC2AF427990038BFE59A44D8523
+2025-01-28 11:49:43,792 [choreo_login.py:28 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-28 11:49:43,792 [choreo_login.py:28 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-28 11:49:43,792 [choreo_login.py:29 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-28 11:49:43,792 [choreo_login.py:29 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-28 11:49:44,100 [choreo_login.py:35 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-28 11:49:44,100 [choreo_login.py:35 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-28 11:49:44,102 [choreo_login.py:36 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-28 11:49:44,102 [choreo_login.py:36 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-28 11:49:44,103 [choreo_login.py:37 - choreo_authentication() ] DEBUG The active window handle is: 7FFA3DC2AF427990038BFE59A44D8523
+2025-01-28 11:49:44,103 [choreo_login.py:37 - choreo_authentication() ] DEBUG The active window handle is: 7FFA3DC2AF427990038BFE59A44D8523
+2025-01-28 11:49:47,501 [choreo_login.py:44 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-28 11:49:47,501 [choreo_login.py:44 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-28 11:49:47,501 [choreo_login.py:45 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-28 11:49:47,501 [choreo_login.py:45 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-28 11:49:55,324 [choreo_login.py:51 - choreo_authentication() ] INFO Entering Choreopassword automatically (pulled from auth_info.py file)
+2025-01-28 11:49:55,324 [choreo_login.py:51 - choreo_authentication() ] INFO Entering Choreopassword automatically (pulled from auth_info.py file)
+2025-01-28 11:49:56,976 [choreo_login.py:55 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-28 11:49:56,976 [choreo_login.py:55 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-28 11:50:09,596 [upload_to_pinterest.py:83 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-28 11:50:09,596 [upload_to_pinterest.py:83 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-28 11:50:09,602 [upload_to_pinterest.py:87 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menues.
+2025-01-28 11:50:09,602 [upload_to_pinterest.py:87 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menues.
+2025-01-28 12:04:42,912 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 12:04:42,912 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 12:06:33,450 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 12:06:38,513 [upload_to_pinterest.py:28 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-28 12:06:39,701 [upload_to_pinterest.py:33 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-28 12:06:39,701 [choreo_login.py:18 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-28 12:06:40,264 [choreo_login.py:22 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-28 12:06:40,265 [choreo_login.py:23 - choreo_authentication() ] DEBUG The active window handle is: 71391337A072DE327E595694E43D1E9E
+2025-01-28 12:06:40,265 [choreo_login.py:28 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-28 12:06:40,265 [choreo_login.py:29 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-28 12:06:40,554 [choreo_login.py:35 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-28 12:06:40,558 [choreo_login.py:36 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-28 12:06:40,559 [choreo_login.py:37 - choreo_authentication() ] DEBUG The active window handle is: 71391337A072DE327E595694E43D1E9E
+2025-01-28 12:06:43,923 [choreo_login.py:44 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-28 12:06:43,923 [choreo_login.py:45 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-28 12:08:39,044 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 12:08:43,802 [upload_to_pinterest.py:28 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-28 12:10:04,438 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 12:10:09,255 [upload_to_pinterest.py:26 - upload_to_pinterest() ] DEBUG Window Handles: ['71F97D49DD7B3320EBCFC5D813AEB7F1']
+2025-01-28 12:10:09,255 [upload_to_pinterest.py:28 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-28 12:10:10,479 [upload_to_pinterest.py:31 - upload_to_pinterest() ] DEBUG Window Handles: ['71F97D49DD7B3320EBCFC5D813AEB7F1', '93DB44B36528EB82436B9548E46A83CA']
+2025-01-28 12:10:10,480 [upload_to_pinterest.py:33 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-28 12:10:10,480 [choreo_login.py:18 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-28 12:10:10,994 [choreo_login.py:22 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-28 12:10:10,995 [choreo_login.py:23 - choreo_authentication() ] DEBUG The active window handle is: 93DB44B36528EB82436B9548E46A83CA
+2025-01-28 12:10:10,995 [choreo_login.py:28 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-28 12:10:10,995 [choreo_login.py:29 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-28 12:10:11,270 [choreo_login.py:35 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-28 12:10:11,273 [choreo_login.py:36 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-28 12:10:11,274 [choreo_login.py:37 - choreo_authentication() ] DEBUG The active window handle is: 93DB44B36528EB82436B9548E46A83CA
+2025-01-28 12:10:15,161 [choreo_login.py:44 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-28 12:10:15,161 [choreo_login.py:45 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-28 12:10:22,916 [choreo_login.py:51 - choreo_authentication() ] INFO Entering Choreopassword automatically (pulled from auth_info.py file)
+2025-01-28 12:10:24,565 [choreo_login.py:55 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-28 12:10:36,910 [upload_to_pinterest.py:42 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-28 12:10:36,915 [upload_to_pinterest.py:46 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menues.
+2025-01-28 13:56:02,377 [download_csv.py:24 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 13:57:09,111 [download_csv.py:24 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 13:57:52,528 [download_csv.py:24 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:04:11,903 [download_csv.py:25 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:05:49,006 [download_csv.py:25 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:07:28,127 [download_csv.py:24 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:10:03,942 [download_csv.py:26 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:12:29,339 [download_csv.py:29 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:13:30,583 [download_csv.py:29 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:15:38,365 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:16:02,579 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:16:55,171 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:19:42,896 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:20:12,204 [download_csv.py:29 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:21:43,214 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:21:43,215 [download_csv.py:12 - download_blob() ] INFO bucket_name = "gcp-tb-2025-a1", source_blob_name = "subfolder-a1/PINT_EMAIL_50k_GCP.csv", destination_file_name = "D:\Python_Projects\Custom_Audience_Upload\files"/"GCP_to_PINTEREST_20250128_A1"
+2025-01-28 14:24:24,502 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:24:24,502 [download_csv.py:12 - download_blob() ] INFO bucket_name = "gcp-tb-2025-a1", source_blob_name = "subfolder-a1/PINT_EMAIL_50k_GCP.csv", destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:25:12,545 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:25:12,545 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = "subfolder-a1/PINT_EMAIL_50k_GCP.csv", destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:25:41,225 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:25:41,225 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:26:05,196 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:26:05,196 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:26:51,603 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:26:51,603 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:30:02,386 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:30:02,386 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:30:51,435 [download_csv.py:31 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:30:51,435 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:30:51,435 [download_csv.py:14 - download_blob() ] INFO JSON credentials path: "D:\Python_Projects\Custom_Audience_Upload\files\"\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:31:18,572 [download_csv.py:31 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:31:18,573 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:31:18,573 [download_csv.py:14 - download_blob() ] INFO JSON credentials path: D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:32:04,691 [download_csv.py:31 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:32:04,692 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:32:04,692 [download_csv.py:14 - download_blob() ] INFO JSON credentials path: D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:33:17,124 [download_csv.py:31 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:33:17,124 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:33:17,124 [download_csv.py:14 - download_blob() ] INFO JSON credentials path: D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:35:21,278 [download_csv.py:31 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:35:21,278 [download_csv.py:12 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\PINT_EMAIL_50k_GCP.csv, destination_file_name = "GCP_to_PINTEREST_20250128_A1"
+2025-01-28 14:35:21,278 [download_csv.py:14 - download_blob() ] INFO JSON credentials path: D:\Python_Projects\Custom_Audience_Upload\files\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:40:39,947 [download_csv.py:30 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:40:39,947 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\\PINT_EMAIL_50k_GCP.csv, destination_file_name = GCP_to_PINTEREST_20250128_A1
+2025-01-28 14:40:39,947 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:42:43,541 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:42:43,541 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\\PINT_EMAIL_50k_GCP.csv, destination_file_name = GCP_to_PINTEREST_20250128_A1
+2025-01-28 14:42:43,541 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:42:43,541 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:42:43,541 [download_csv.py:24 - download_blob() ] ERROR JSON credentials file is empty: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:43:55,150 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:43:55,150 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1\\PINT_EMAIL_50k_GCP.csv, destination_file_name = GCP_to_PINTEREST_20250128_A1
+2025-01-28 14:43:55,150 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:43:55,150 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:43:55,344 [download_csv.py:34 - download_blob() ] ERROR Error occurred while downloading blob: 404 GET https://storage.googleapis.com/download/storage/v1/b/gcp-tb-2025-a1/o/subfolder-a1%5C%5CPINT_EMAIL_50k_GCP.csv?alt=media: No such object: gcp-tb-2025-a1/subfolder-a1\\PINT_EMAIL_50k_GCP.csv: ('Request failed with status code', 404, 'Expected one of', <HTTPStatus.OK: 200>, <HTTPStatus.PARTIAL_CONTENT: 206>)
+2025-01-28 14:48:57,515 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:48:57,515 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = GCP_to_PINTEREST_20250128_A1
+2025-01-28 14:48:57,515 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:48:57,515 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:48:57,911 [download_csv.py:32 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to GCP_to_PINTEREST_20250128_A1.
+2025-01-28 14:50:59,286 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 14:50:59,286 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1
+2025-01-28 14:50:59,286 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:50:59,286 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 14:50:59,608 [download_csv.py:32 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.
+2025-01-28 14:51:50,344 [upload_to_pinterest.py:83 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-28 14:51:56,404 [upload_to_pinterest.py:25 - upload_to_pinterest() ] DEBUG Window Handles: ['56D436EFC5073E9AA7B0DED5B63AFA9E']
+2025-01-28 14:51:56,405 [upload_to_pinterest.py:27 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-28 14:51:57,670 [upload_to_pinterest.py:30 - upload_to_pinterest() ] DEBUG Window Handles: ['56D436EFC5073E9AA7B0DED5B63AFA9E', 'E34871A0A0CF61ADDC4C45B5BCBA7395']
+2025-01-28 14:51:57,670 [upload_to_pinterest.py:32 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-28 14:51:57,670 [choreo_login.py:13 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-28 14:51:58,270 [choreo_login.py:17 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-28 14:51:58,272 [choreo_login.py:18 - choreo_authentication() ] DEBUG The active window handle is: E34871A0A0CF61ADDC4C45B5BCBA7395
+2025-01-28 14:51:58,272 [choreo_login.py:23 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-28 14:51:58,272 [choreo_login.py:24 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-28 14:51:58,543 [choreo_login.py:29 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-28 14:51:58,546 [choreo_login.py:30 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-28 14:51:58,547 [choreo_login.py:31 - choreo_authentication() ] DEBUG The active window handle is: E34871A0A0CF61ADDC4C45B5BCBA7395
+2025-01-28 14:52:03,354 [choreo_login.py:36 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-28 14:52:03,354 [choreo_login.py:37 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-28 14:52:11,049 [choreo_login.py:43 - choreo_authentication() ] INFO Entering Choreopassword automatically (pulled from config.txt file)
+2025-01-28 14:52:12,687 [choreo_login.py:47 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-28 14:52:25,454 [upload_to_pinterest.py:41 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-28 14:52:25,460 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menues.

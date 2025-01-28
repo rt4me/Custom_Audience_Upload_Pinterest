@@ -1,0 +1,31 @@
+Intent is for the user to run this script on your local machine to download a csv file from GCP and upload it to Pinterest.
+You'll need to create your own config.txt using the config_template.txt file as an example.
+
+The GCP_CREDENTIALS_JSON will need to be obtained from the GCP project/bucket the source files will be downloaded from.
+
+To obtain a GCP Credential JSON file, a service account will need to be created.
+Create a Service Account (if one doesn't already exist):
+Go to the Google Cloud Console
+Navigate to "APIs & Services" > "Credentials"
+Create a new service account.
+Assign it the appropriate roles (e.g., Storage Object Viewer or Storage Object Admin)
+
+Generate a JSON Key:
+After creating the service account, select the Keys tab.
+Select Add Key > Create New Key
+Select JSON and download.
+This key should be placed as the LOCAL_DIRECTORY variable in the config.txt file.
+The name of the key should be placed as the GCP_CREDENTIALS_JSON variable in the config.txt file.
+
+The GCP_OBJECT_NAME variable in the config.txt file should be GCP directory the file to be download is located in and the filename itself.
+For example, if you select the copy path icon in GCP for the path, it will be in the format:
+bucket_name/directory1/directory2.../filename
+
+Ex: Client_bucket/share/dir_a1/custom_audience_file.csv
+So config.txt will have
+GCP_BUCKET_NAME = Client_bucket
+GCP_OBJECT_NAME = share/dir_a1/custom_audience_file.csv
+
+Running the script will require logging into Pinterest website. This will include using the Okta login process.
+Have your Okta application available to approve the sign in request.
+There might come a time during login where Pinterest will prompt for a code to be entered. Often, this code will not be sent on the first attempt and you'll need to select the link to send the a code again.
