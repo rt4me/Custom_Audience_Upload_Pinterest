@@ -12,20 +12,20 @@ def download_blob(bucket_name, source_blob_name, destination_file_path_and_name)
     json_credentials_path = os.path.join(utils.local_directory, utils.gcp_credentials_json)
     log.info(f"JSON credentials path: {json_credentials_path}")
     # Remove all double quotes from the path
-    json_credentials_path = json_credentials_path.replace('"', '')
-    log.info(f"Cleaned JSON credentials path: {json_credentials_path}")
+    json_credentials_path_cleaned = json_credentials_path.replace('"', '')
+    log.info(f"Cleaned JSON credentials path: {json_credentials_path_cleaned}")
 
     # Verify the JSON file exists and is not empty
-    if not os.path.isfile(json_credentials_path):
-        log.error(f"JSON credentials file does not exist: {json_credentials_path}")
+    if not os.path.isfile(json_credentials_path_cleaned):
+        log.error(f"JSON credentials file does not exist: {json_credentials_path_cleaned}")
         return
 
     if os.path.getsize(json_credentials_path) == 0:
-        log.error(f"JSON credentials file is empty: {json_credentials_path}")
+        log.error(f"JSON credentials file is empty: {json_credentials_path_cleaned}")
         return
 
     try:
-        storage_client = storage.Client.from_service_account_json(json_credentials_path)
+        storage_client = storage.Client.from_service_account_json(json_credentials_path_cleaned)
         bucket = storage_client.bucket(bucket_name)
         blob = bucket.blob(source_blob_name)
         blob.download_to_filename(destination_file_path_and_name)
@@ -38,7 +38,7 @@ def download_blob(bucket_name, source_blob_name, destination_file_path_and_name)
 def main():
     log.info("Running download_csv.py as a standalone program.")
     # download_file_name = f"GCP_Downloaded_file_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
-    download_blob(utils.gcp_bucket_name, utils.gcp_object_name, os.path.join(utils.local_directory, utils.file_name))
+    download_blob(utils.gcp_bucket_name, utils.gcp_object_name, os.path.join(utils.local_directory, utils.file_name).replace('"', ''))
 
 
 if __name__ == "__main__":
