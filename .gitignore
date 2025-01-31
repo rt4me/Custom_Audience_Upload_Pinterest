@@ -1,7 +1,6 @@
-config.txt
-files/*.json
-files/*
 logs/*.log
+utils/*.env
+utils/*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

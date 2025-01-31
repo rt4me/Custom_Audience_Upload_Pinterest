@@ -1,9 +1,8 @@
 import download_csv
-import upload_to_pinterest
-import datetime
+from pages import upload_to_pinterest
 
-import utils
-from utils import *
+from utils import utils
+from utils.utils import *
 
 #NAME_DOWNLOADED_FILE = f"GCP_Downloaded_file_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
 # Path to the file

@@ -1,19 +1,7 @@
 import logging
 import time
 import os
-import configparser
 
-config = configparser.ConfigParser()
-config.read('config.txt') # Change this to the name of the config file you setup using config_template.txt
-choreo_email = config['credentials']['CHOREO_EMAIL']
-choreo_password = config['credentials']['CHOREO_PASSWORD']
-gcp_bucket_name = config['settings']['GCP_BUCKET_NAME']
-gcp_object_name = config['settings']['GCP_OBJECT_NAME']
-gcp_credentials_json = config['credentials']['GCP_CREDENTIALS_JSON']
-local_directory = config['settings']['LOCAL_DIRECTORY']
-file_name = config['settings']['DOWNLOAD_FILENAME']
-audience_name = config['settings']['AUDIENCE_NAME_FOR_PINTEREST']
-audience_desc = config['settings']['AUDIENCE_DESCRIPTION_FOR_PINTEREST'].strip('"')
 
 class Singleton(type):
     _instances = {}
@@ -57,7 +45,7 @@ class Utilities(metaclass=Singleton):
         if not logger.handlers:
             # Create Console Handler or file handler and set log level
             ch = logging.StreamHandler() #Directs log messages to the Console
-            fh = logging.FileHandler("logs/FileHandler_logging.log") # Directs log messages to a file.
+            fh = logging.FileHandler("../logs/FileHandler_logging.log") # Directs log messages to a file.
 
             # Create formatter to output in specific colors and information.
             formatter_with_color = ColoredFormatter(

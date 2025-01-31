@@ -159,3 +159,185 @@
 2025-01-28 14:52:12,687 [choreo_login.py:47 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
 2025-01-28 14:52:25,454 [upload_to_pinterest.py:41 - upload_to_pinterest() ] DEBUG Switching back to Main window.
 2025-01-28 14:52:25,460 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menues.
+2025-01-28 16:43:17,552 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 16:43:17,552 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1
+2025-01-28 16:43:17,552 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 16:43:17,552 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 16:43:19,649 [download_csv.py:32 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.
+2025-01-28 16:43:55,639 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-28 16:43:55,639 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.csv
+2025-01-28 16:43:55,639 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 16:43:55,640 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-28 16:43:55,922 [download_csv.py:32 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.csv.
+2025-01-29 07:37:04,644 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-29 07:37:04,644 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.csv
+2025-01-29 07:37:04,644 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-29 07:37:04,644 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-29 07:37:05,064 [download_csv.py:32 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.csv.
+2025-01-29 07:37:25,985 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-29 07:37:25,985 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.csv
+2025-01-29 07:37:25,985 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-29 07:37:25,985 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-29 07:37:26,275 [download_csv.py:32 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250128_A1.csv.
+2025-01-29 07:38:03,106 [download_csv.py:39 - main() ] INFO Running download_csv.py as a standalone program.
+2025-01-29 07:38:03,106 [download_csv.py:11 - download_blob() ] INFO bucket_name = gcp-tb-2025-a1, source_blob_name = subfolder-a1/PINT_EMAIL_50k_GCP.csv, destination_file_name = D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250129_A1.csv
+2025-01-29 07:38:03,106 [download_csv.py:13 - download_blob() ] INFO JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-29 07:38:03,106 [download_csv.py:16 - download_blob() ] INFO Cleaned JSON credentials path: D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_key_inbound-stage-449118-u0-7848d79b499f.json
+2025-01-29 07:38:03,439 [download_csv.py:32 - download_blob() ] INFO Downloaded subfolder-a1/PINT_EMAIL_50k_GCP.csv to D:\\Python_Projects\\Custom_Audience_Upload\\files\\GCP_to_PINTEREST_20250129_A1.csv.
+2025-01-29 09:50:18,415 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-29 09:50:28,432 [upload_to_pinterest.py:25 - upload_to_pinterest() ] DEBUG Window Handles: ['65D36A667E2E52D9BBB52C681A3E9761']
+2025-01-29 09:50:28,432 [upload_to_pinterest.py:27 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-29 09:50:29,671 [upload_to_pinterest.py:30 - upload_to_pinterest() ] DEBUG Window Handles: ['65D36A667E2E52D9BBB52C681A3E9761', 'C5F9A99E18C19F6D7C9B4E2459046258']
+2025-01-29 09:50:29,671 [upload_to_pinterest.py:32 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-29 09:50:29,671 [choreo_login.py:13 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-29 09:50:30,258 [choreo_login.py:17 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-29 09:50:30,260 [choreo_login.py:18 - choreo_authentication() ] DEBUG The active window handle is: C5F9A99E18C19F6D7C9B4E2459046258
+2025-01-29 09:50:30,260 [choreo_login.py:23 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-29 09:50:30,260 [choreo_login.py:24 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-29 09:50:30,564 [choreo_login.py:29 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-29 09:50:30,568 [choreo_login.py:30 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-29 09:50:30,569 [choreo_login.py:31 - choreo_authentication() ] DEBUG The active window handle is: C5F9A99E18C19F6D7C9B4E2459046258
+2025-01-29 09:50:35,705 [choreo_login.py:36 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-29 09:50:35,705 [choreo_login.py:37 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-29 09:50:44,040 [choreo_login.py:43 - choreo_authentication() ] INFO Entering Choreo password automatically (pulled from config.txt file)
+2025-01-29 09:50:45,682 [choreo_login.py:47 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-29 09:51:03,491 [upload_to_pinterest.py:42 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-29 09:51:03,494 [upload_to_pinterest.py:46 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menues.
+2025-01-30 11:06:41,873 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 11:06:50,337 [upload_to_pinterest.py:25 - upload_to_pinterest() ] DEBUG Window Handles: ['4CC166F381FB8B51FEA95C6FB0FD1E79']
+2025-01-30 11:06:50,337 [upload_to_pinterest.py:27 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 11:06:51,669 [upload_to_pinterest.py:30 - upload_to_pinterest() ] DEBUG Window Handles: ['4CC166F381FB8B51FEA95C6FB0FD1E79', '31E93F1ABAAC1F6132235A5F4C3AFB3F']
+2025-01-30 11:06:51,669 [upload_to_pinterest.py:32 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-30 11:06:51,669 [choreo_login.py:13 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-30 11:06:52,272 [choreo_login.py:17 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-30 11:06:52,273 [choreo_login.py:18 - choreo_authentication() ] DEBUG The active window handle is: 31E93F1ABAAC1F6132235A5F4C3AFB3F
+2025-01-30 11:06:52,273 [choreo_login.py:23 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-30 11:06:52,273 [choreo_login.py:24 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-30 11:06:52,576 [choreo_login.py:29 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-30 11:06:52,580 [choreo_login.py:30 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-30 11:06:52,580 [choreo_login.py:31 - choreo_authentication() ] DEBUG The active window handle is: 31E93F1ABAAC1F6132235A5F4C3AFB3F
+2025-01-30 11:06:57,054 [choreo_login.py:36 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-30 11:06:57,054 [choreo_login.py:37 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-30 11:07:05,488 [choreo_login.py:43 - choreo_authentication() ] INFO Entering Choreo password automatically (pulled from config.txt file)
+2025-01-30 11:07:07,138 [choreo_login.py:47 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-30 11:07:25,036 [upload_to_pinterest.py:42 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-30 11:07:25,038 [upload_to_pinterest.py:46 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menus.
+2025-01-30 11:07:48,904 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Selecting Customer List option
+2025-01-30 11:13:20,249 [upload_to_pinterest.py:84 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 11:13:27,942 [upload_to_pinterest.py:25 - upload_to_pinterest() ] DEBUG Window Handles: ['784EBB24DF02B6160B75203456675BCE']
+2025-01-30 11:13:27,942 [upload_to_pinterest.py:27 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 11:13:29,119 [upload_to_pinterest.py:30 - upload_to_pinterest() ] DEBUG Window Handles: ['784EBB24DF02B6160B75203456675BCE', '5CBD232519B44280C5F2534D04989AF6']
+2025-01-30 11:13:29,119 [upload_to_pinterest.py:32 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-30 11:13:29,119 [choreo_login.py:13 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-30 11:13:29,710 [choreo_login.py:17 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-30 11:13:29,710 [choreo_login.py:18 - choreo_authentication() ] DEBUG The active window handle is: 5CBD232519B44280C5F2534D04989AF6
+2025-01-30 11:13:29,710 [choreo_login.py:23 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-30 11:13:29,710 [choreo_login.py:24 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-30 11:13:30,031 [choreo_login.py:29 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-30 11:13:30,034 [choreo_login.py:30 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-30 11:13:30,035 [choreo_login.py:31 - choreo_authentication() ] DEBUG The active window handle is: 5CBD232519B44280C5F2534D04989AF6
+2025-01-30 11:13:33,892 [choreo_login.py:36 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-30 11:13:33,892 [choreo_login.py:37 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-30 11:13:42,290 [choreo_login.py:43 - choreo_authentication() ] INFO Entering Choreo password automatically (pulled from config.txt file)
+2025-01-30 11:13:43,937 [choreo_login.py:47 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-30 11:14:01,332 [upload_to_pinterest.py:42 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-30 11:14:01,334 [upload_to_pinterest.py:46 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menus.
+2025-01-30 11:14:26,039 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Selecting Customer List option
+2025-01-30 11:14:26,661 [upload_to_pinterest.py:56 - upload_to_pinterest() ] INFO Filling in audience name as GCP_to_PINTEREST_20250129_A1
+2025-01-30 11:14:26,812 [upload_to_pinterest.py:58 - upload_to_pinterest() ] INFO Filling in description.
+2025-01-30 11:14:26,954 [upload_to_pinterest.py:63 - upload_to_pinterest() ] INFO Selecting file to upload from 
+2025-01-30 11:28:21,835 [upload_to_pinterest.py:98 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 11:28:28,689 [upload_to_pinterest.py:26 - upload_to_pinterest() ] DEBUG Window Handles: ['33194C6C1275066CCBAE9E5B70DBFD20']
+2025-01-30 11:28:28,690 [upload_to_pinterest.py:28 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 11:28:29,475 [upload_to_pinterest.py:31 - upload_to_pinterest() ] DEBUG Window Handles: ['33194C6C1275066CCBAE9E5B70DBFD20', '1B25FFE3E15C0B14D35D7971A3A5D70D']
+2025-01-30 11:28:29,475 [upload_to_pinterest.py:33 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-30 11:28:29,475 [choreo_login.py:13 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-30 11:28:30,107 [choreo_login.py:17 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-30 11:28:30,108 [choreo_login.py:18 - choreo_authentication() ] DEBUG The active window handle is: 1B25FFE3E15C0B14D35D7971A3A5D70D
+2025-01-30 11:28:30,108 [choreo_login.py:23 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-30 11:28:30,108 [choreo_login.py:24 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-30 11:28:30,467 [choreo_login.py:29 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-30 11:28:30,472 [choreo_login.py:30 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-30 11:28:30,473 [choreo_login.py:31 - choreo_authentication() ] DEBUG The active window handle is: 1B25FFE3E15C0B14D35D7971A3A5D70D
+2025-01-30 11:28:35,623 [choreo_login.py:36 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-30 11:28:35,623 [choreo_login.py:37 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-30 11:28:43,847 [choreo_login.py:43 - choreo_authentication() ] INFO Entering Choreo password automatically (pulled from config.txt file)
+2025-01-30 11:28:45,492 [choreo_login.py:47 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-30 11:29:03,164 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-30 11:29:03,166 [upload_to_pinterest.py:47 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menus.
+2025-01-30 14:03:13,544 [upload_to_pinterest.py:103 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 14:03:20,417 [upload_to_pinterest.py:26 - upload_to_pinterest() ] DEBUG Window Handles: ['E45B30217FDCE2AF134C9543477CE019']
+2025-01-30 14:03:20,417 [upload_to_pinterest.py:28 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 14:03:21,719 [upload_to_pinterest.py:31 - upload_to_pinterest() ] DEBUG Window Handles: ['E45B30217FDCE2AF134C9543477CE019', '0F991BCCDBB19B57207BFF76C9A12238']
+2025-01-30 14:03:21,719 [upload_to_pinterest.py:33 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-30 14:03:21,719 [choreo_login.py:13 - choreo_authentication() ] INFO Wait for the Authentication window to open and switch to it
+2025-01-30 14:03:22,348 [choreo_login.py:17 - choreo_authentication() ] DEBUG The title of the active window is: 
+2025-01-30 14:03:22,349 [choreo_login.py:18 - choreo_authentication() ] DEBUG The active window handle is: 0F991BCCDBB19B57207BFF76C9A12238
+2025-01-30 14:03:22,349 [choreo_login.py:23 - choreo_authentication() ] INFO Login with Google Authentication
+2025-01-30 14:03:22,349 [choreo_login.py:24 - choreo_authentication() ] DEBUG Attempting to find Email and enter tim.bergin@choreograph.com
+2025-01-30 14:03:22,741 [choreo_login.py:29 - choreo_authentication() ] INFO Logging into Microsoft login page
+2025-01-30 14:03:22,744 [choreo_login.py:30 - choreo_authentication() ] DEBUG The title of the active window is: Sign in - Google Accounts
+2025-01-30 14:03:22,745 [choreo_login.py:31 - choreo_authentication() ] DEBUG The active window handle is: 0F991BCCDBB19B57207BFF76C9A12238
+2025-01-30 14:03:26,835 [choreo_login.py:36 - choreo_authentication() ] INFO WPP login. Email should be pre-populated
+2025-01-30 14:03:26,835 [choreo_login.py:37 - choreo_authentication() ] INFO Waiting for full page to load
+2025-01-30 14:03:35,268 [choreo_login.py:43 - choreo_authentication() ] INFO Entering Choreo password automatically (pulled from config.txt file)
+2025-01-30 14:03:42,486 [choreo_login.py:47 - choreo_authentication() ] INFO Selecting Continue button after Choreo password was entered
+2025-01-30 14:03:59,950 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-30 14:03:59,952 [upload_to_pinterest.py:47 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menus.
+2025-01-30 16:34:48,838 [upload_to_pinterest.py:129 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 16:38:32,205 [upload_to_pinterest.py:130 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 16:38:32,205 [upload_to_pinterest.py:37 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 16:49:29,862 [upload_to_pinterest.py:130 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 16:49:29,863 [upload_to_pinterest.py:37 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 16:52:38,433 [upload_to_pinterest.py:132 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 16:52:38,433 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 16:53:30,523 [upload_to_pinterest.py:133 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 16:53:30,523 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 17:11:53,505 [upload_to_pinterest.py:133 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 17:11:53,505 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 17:17:05,859 [upload_to_pinterest.py:133 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 17:17:10,268 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 17:17:10,268 [upload_to_pinterest.py:40 - upload_to_pinterest() ] DEBUG Driver type: <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+2025-01-30 17:17:12,099 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Window Handles: ['A0C7A3529628D6C10E03B44610EF9591']
+2025-01-30 17:17:12,100 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 17:17:13,470 [upload_to_pinterest.py:50 - upload_to_pinterest() ] DEBUG Window Handles: ['A0C7A3529628D6C10E03B44610EF9591', 'F94D6BBFC755E18980A0E5FC3BBAE741']
+2025-01-30 17:17:13,470 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-30 17:17:18,472 [upload_to_pinterest.py:62 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-30 17:17:18,480 [upload_to_pinterest.py:66 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menus.
+2025-01-30 17:24:44,977 [upload_to_pinterest.py:135 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 17:24:47,004 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 17:24:47,004 [upload_to_pinterest.py:40 - upload_to_pinterest() ] DEBUG Driver type: <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+2025-01-30 17:24:47,767 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Window Handles: ['B9C8925FE275A9533E017556541DA3D7']
+2025-01-30 17:24:48,460 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 17:24:49,274 [upload_to_pinterest.py:50 - upload_to_pinterest() ] DEBUG Window Handles: ['B9C8925FE275A9533E017556541DA3D7', '19D03D04E565F52D0A97C7741A0BA525']
+2025-01-30 17:24:49,274 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-30 17:24:54,275 [upload_to_pinterest.py:64 - upload_to_pinterest() ] DEBUG Switching back to Main window.
+2025-01-30 17:24:54,284 [upload_to_pinterest.py:68 - upload_to_pinterest() ] INFO Navigating to Create Audience page via menus.
+2025-01-30 17:28:49,208 [upload_to_pinterest.py:131 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 17:28:51,206 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 17:28:51,206 [upload_to_pinterest.py:40 - upload_to_pinterest() ] DEBUG Driver type: <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+2025-01-30 17:28:51,905 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Window Handles: ['172AE034B35041C4F985C6E19462CEC4']
+2025-01-30 17:28:51,905 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 17:28:54,896 [upload_to_pinterest.py:50 - upload_to_pinterest() ] DEBUG Window Handles: ['172AE034B35041C4F985C6E19462CEC4', 'E769A1E80EA3A2183B50C53849123E21']
+2025-01-30 17:28:54,896 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-30 17:30:29,101 [upload_to_pinterest.py:131 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-30 17:30:31,118 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-30 17:30:31,118 [upload_to_pinterest.py:40 - upload_to_pinterest() ] DEBUG Driver type: <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+2025-01-30 17:30:31,883 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Window Handles: ['786469BCA719463C169E66972FFB08CB']
+2025-01-30 17:30:31,883 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-30 17:30:33,229 [upload_to_pinterest.py:50 - upload_to_pinterest() ] DEBUG Window Handles: ['786469BCA719463C169E66972FFB08CB', '5FBEFA8E59A46E997E206600BE0ACDC6']
+2025-01-30 17:30:33,229 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-31 10:38:00,989 [upload_to_pinterest.py:131 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-31 10:38:04,810 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-31 10:38:04,811 [upload_to_pinterest.py:40 - upload_to_pinterest() ] DEBUG Driver type: <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+2025-01-31 10:38:05,619 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Window Handles: ['663DD0DDDB3CD5181B24B6B7770E85CB']
+2025-01-31 10:38:05,619 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-31 10:38:06,989 [upload_to_pinterest.py:50 - upload_to_pinterest() ] DEBUG Window Handles: ['663DD0DDDB3CD5181B24B6B7770E85CB', 'EB850EC71471C33CA640F9F65DC81E85']
+2025-01-31 10:38:06,989 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
+2025-01-31 10:42:07,502 [upload_to_pinterest.py:131 - main() ] INFO Running upload_to_pinterest.py as a standalone program.
+2025-01-31 10:42:09,510 [upload_to_pinterest.py:39 - upload_to_pinterest() ] DEBUG Using URL: https://ads.pinterest.com/
+2025-01-31 10:42:09,510 [upload_to_pinterest.py:40 - upload_to_pinterest() ] DEBUG Driver type: <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+2025-01-31 10:42:10,238 [upload_to_pinterest.py:43 - upload_to_pinterest() ] DEBUG Window Handles: ['5EED6D9A32A97DDF3EB9CB497AB7E46C']
+2025-01-31 10:42:10,238 [upload_to_pinterest.py:45 - upload_to_pinterest() ] INFO Logging into Pinterest
+2025-01-31 10:42:11,627 [upload_to_pinterest.py:50 - upload_to_pinterest() ] DEBUG Window Handles: ['5EED6D9A32A97DDF3EB9CB497AB7E46C', '1209224F73DE51FEFD0CDBE7967A07DC']
+2025-01-31 10:42:11,629 [upload_to_pinterest.py:52 - upload_to_pinterest() ] INFO Call choreo_login.choreo_authentication
